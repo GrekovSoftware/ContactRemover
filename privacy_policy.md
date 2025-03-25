@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Grekov Software built the "Contact Remover" app as an Ad Supported app, called further as a Service.
+Grekov Software built the "Share Contact" app as an Ad Supported app, called further as a Service.
 This Service is provided by Grekov Software at no cost and is intended for use as is. 
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service. 
